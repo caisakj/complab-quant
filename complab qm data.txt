@@ -1,0 +1,32 @@
+complab task 1:
+ (height=4)
+ground: -2.3755 eV
+1st excite: -0.1487 eV
+
+complab task 2
+W - wavefuncs coupling
+A - potentials coupling
+
+xi0 = 1.5 (height = 2):
+ground:  -1.1221 eV
+1st excite: -0.7814 eV
+
+height = 4
+xi0 = 1.1:
+ground: -2.917 eV
+ground(diff oddity): -2.086 eV
+1st excite:-0.304 eV
+last could've disappeared due to being >0
+
+xi0=1.3:
+ground: -2.658 eV
+ground(diff oddity): -2.190 eV
+1st excited:-0.316 eV
+last could've disappeared due to being >0
+
+xi0633333=1.5:
+ground: -2.519 eV
+ground (diff oddity): -2.264 eV
+1st excited: -0.301
+fourth state could've disappeared due to being greater than 0?
+
